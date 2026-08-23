@@ -2,11 +2,11 @@
 <p align="center"> <b>Computer Science Student | Full-Stack Developer</b> </p>
 
 <h3 align="left">👨‍💻 About Me</h3>
-🎓 Computer Science student at Naresuan University
-💻 Interested in Full-Stack Web Development
-🌱 Currently learning Backend Development, Networking & Cybersecurity
-🚀 Enjoy building practical projects and turning ideas into working applications
-🏀 Fun fact: I enjoy playing basketball
+- 🎓 Computer Science student at Naresuan University
+- 💻 Interested in Full-Stack Web Development
+- 🌱 Currently learning Backend Development, Networking & Cybersecurity
+- 🚀 Enjoy building practical projects and turning ideas into working applications
+- 🏀 Fun fact: I enjoy playing basketball
 
 <h3 align="left">🛠️ Technologies & Tools</h3>
 
