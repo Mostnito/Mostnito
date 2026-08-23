@@ -1,4 +1,6 @@
 <h1 align="center" >🧑‍💻Welcome To Most World🧑‍💻</h1>
+<p align="center"> <b>Computer Science Student | Full-Stack Developer</b> </p>
+
 <h3 align="left">👨‍💻 About Me</h3>
 🎓 Computer Science student at Naresuan University
 💻 Interested in Full-Stack Web Development
@@ -9,10 +11,6 @@
 <h3 align="left">🛠️ Technologies & Tools</h3>
 
 <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,php,mysql,postgres,git,github,linux,vscode" /> </p>
-
-<h3 align="left">📊 GitHub Stats</h3>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mostnito&show_icons=true&theme=dark&locale=en&layout=compact" alt="Most's Top Languages" /> </p>
 
 <h3 align="left">🤝 Connect With Me</h3>
 <p align="left">
